@@ -319,8 +319,8 @@
     },
     {
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220513_162314.png",
-      "name": "Wave Scenery",
-      "collections": "Grad Scene",
+      "name": "Grad Scenery",
+      "collections": "Scenery",
       "author": "Animesh Singh Rajput"
     },
     {
@@ -1058,19 +1058,19 @@
 	{
 		"url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_125017.png",
 		"name": "Smudge flow 1",
-		"collections": "Smudges",
+		"collections": "Smudge Gradient",
 		"author": "Animesh Singh Rajput"
 	},
 	{
 		"url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_125218.png",
 		"name": "Smudge flow 2",
-		"collections": "Smudges",
+		"collections": "Smudge Gradient",
 		"author": "Animesh Singh Rajput"
 	},
 	{
 		"url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_125303.jpg",
-		"name": "Sumudge flow 3",
-		"collections": "Smudges",
+		"name": "Smudge flow 3",
+		"collections": "Smudge Gradient",
 		"author": "Animesh Singh Rajput"
 	},
 	{
